@@ -10,7 +10,6 @@
 
 ## Files
 - `integrated_3_statement_model.xlsx`
-- `screenshots/model_structure.png`
 
 ## How to use
 1. Set assumptions in the `Drivers` sheet.
